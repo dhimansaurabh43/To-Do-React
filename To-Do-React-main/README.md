@@ -15,7 +15,7 @@ A simple To-Do List application built with React. This app allows users to add, 
 Clone the project  
 
 ~~~bash  
-  git clone 
+Git clone:  https://github.com/dhimansaurabh43/To-Do-React.git
 ~~~
 
 Go to the project directory  
